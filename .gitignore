@@ -1,3 +1,11 @@
 node_modules
-bundle.js
+
 config.js
+
+forever32.pem
+
+bundle.js
+
+firebase.js
+
+coverage
